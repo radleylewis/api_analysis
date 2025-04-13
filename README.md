@@ -10,6 +10,10 @@ This README provides instructions for setting up the Python environment needed t
 
 ## Prerequisites
 
+### Dataset
+
+Download the dataset [here](https://www.kaggle.com/datasets/tangodelta/api-access-behaviour-anomaly-dataset?resource=download). Extract the `remaining_behavior_ext.csv` to the root of this repo. 
+
 ### 1. Python 3 Installation
 
 Ensure you have Python 3.6 or newer installed on your system.
