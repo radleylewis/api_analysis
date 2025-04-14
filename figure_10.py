@@ -25,7 +25,7 @@ sns.boxplot(x=inter_api_duration_filtered, color='lightgreen', linewidth=1.5, fl
 
 # Formatting
 plt.title(title, fontsize=18, fontweight='bold', pad=20)
-plt.xlabel('Sequence Length (IQR-filtered)', fontsize=14, labelpad=15)
+plt.xlabel('Sequence Length (IQR-filtered) - count', fontsize=14, labelpad=15)
 plt.ylabel('', fontsize=14)
 plt.xticks(fontsize=12)
 plt.yticks([])
